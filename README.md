@@ -77,3 +77,26 @@
 4. UI va animatsiyalarni qo‘shish
 5. Ma’lumot almashinuvi va test qilish
 6. GitHub’ga yuklash / ishga tushirish
+
+---
+
+## 📩 Contact Me
+
+<p align="center">
+  <a href="mailto:bahromjonnajmiddinov45@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/iBahromjon">
+    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/iBahromjon">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ibahromjon">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-glyphs/30/phone.png" /> <b>+998 88 626 06 20</b>
+</p>
