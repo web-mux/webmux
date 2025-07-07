@@ -79,8 +79,7 @@
 6. GitHub’ga yuklash / ishga tushirish
 
 ---
-
-## 📩 Contact Me
+ 📩 Contact Me
 
 <p align="center">
   <a href="mailto:bahromjonnajmiddinov45@gmail.com">
