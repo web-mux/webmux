@@ -1,39 +1,79 @@
-<h1 align="center">✨ Webmux ✨</h1>
+<h1 align="center">👨‍💻 Bahromjon Najmiddinov</h1>
 <p align="center">
-  <i>Creative Front-End Animations</i>
+  <b>⚛️ Front-End Developer | 🤖 Telegram Bot Builder | 🚀 Node.js Enthusiast</b><br>
+  <i>16 yosh | React • Node.js • Botlar • Animatsiyalar</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" />
 </p>
 
 ---
 
-## 🚀 Technologies
+## 💡 About Me
 
-- HTML5  
-- CSS3 (Flexbox, Grid, Media Queries)  
-- JavaScript (ES6+)  
-- React.js  
-- Framer Motion  
-- ScrollReveal  
-- AOS (Animate On Scroll)  
-- Git & GitHub  
+- 👋 Salom! Men **Bahromjon**, 17 yoshli frontend va bot ishlab chiquvchiman.
+- ⚛️ **React**, 💬 **Telegram botlar**, 🔁 **Node.js** backend bilan ishlayman.
+- 🎨 UI/UX dizayn, animatsiyalar va avtomatlashtirishga qiziqaman.
+- 🧠 Har kuni yangilik o‘rganib, real loyihalarda sinab ko‘raman.
 
 ---
 
-## 💼 Skills
+## 🚀 Technologies & Tools
 
-- Responsive Design  
-- UI/UX Prototyping  
-- Interactive Components  
-- Animation & Motion Design  
-- React Component Architecture  
-- SPA (Single Page Applications)  
-- Git Workflow  
+### 🌐 Frontend Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+
+### ✨ Animatsiya & UI
+
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![ScrollReveal](https://img.shields.io/badge/-ScrollReveal-lightblue?style=for-the-badge)
+![AOS](https://img.shields.io/badge/-AOS-green?style=for-the-badge)
+
+### ⚙️ Backend & Botlar
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-0088cc?style=for-the-badge&logo=telegram)
+
+### 🛠 Asboblar
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📬 Contact
+## 🔧 What I Can Build
 
-**Bahromjon Najmiddinov**  
-📍 Namangan, Uzbekistan  
-📧 Email: [bahromjonnajmiddinov45@gmail.com](mailto:bahromjonnajmiddinov45@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/ibahromjon](https://linkedin.com/in/ibahromjon)  
-💻 Portfolio: [Soon...]
+- 🔹 Full animated responsive websites with React  
+- 🔹 Telegram botlar: test botlar, musiqiy botlar, o‘yin botlar  
+- 🔹 Node.js bilan API yaratish  
+- 🔹 Botlar uchun ma’lumotlar saqlovchi JSON va fayl strukturalar  
+- 🔹 Frontend + Bot aloqasini bog‘lash (Webhook)
+
+---
+
+## 🧠 My Skills
+
+- ✅ SPA (Single Page Application)
+- ✅ Clean reusable React components
+- ✅ Framer Motion orqali sahifalararo animatsiya
+- ✅ Telegram botlar uchun node-telegram-bot-api bilan ishlash
+- ✅ LocalStorage, fetch, event handling
+- ✅ Git bilan versiyalarni boshqarish
+
+---
+
+## ⚙️ Sample Workflow
+
+```txt
+1. Loyiha g‘oyasi — botmi yoki saytmi?
+2. Texnologiya tanlash: React / Node.js / Bot
+3. Strukturani yaratish (komponentlar, papkalar)
+4. UI va animatsiyalarni qo‘shish
+5. Ma’lumot almashinuvi va test qilish
+6. GitHub’ga yuklash / ishga tushirish
